@@ -1,0 +1,45 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+MAX	practice_array/count_characters.c	2;"	d	file:
+MAX	practice_array/pass_half_ele.c	2;"	d	file:
+SIZE	practice_array/count_frequency.c	3;"	d	file:
+SIZE	practice_array/shift.c	3;"	d	file:
+SIZE	practice_array/size_length.c	3;"	d	file:
+addition	practice_extern/add.c	/^void addition(int a, int b) $/;"	f
+autoStorageClass	practice_storageclass/storageclass.c	/^void autoStorageClass() $/;"	f
+count_set_bits	practice_datatype/power_of_two.c	/^unsigned int count_set_bits(unsigned int num) {$/;"	f
+externStorageClass	practice_storageclass/storageclass.c	/^void externStorageClass() $/;"	f
+frequency	practice_array/count_frequency.c	/^int frequency(char *str, char ch)$/;"	f
+fun	fun.c	/^void fun()$/;"	f
+isAlpha	practice_array/count_characters.c	/^int isAlpha(char ch)$/;"	f
+isDigit	practice_array/count_characters.c	/^int isDigit(char ch)$/;"	f
+isSpace	practice_array/count_characters.c	/^int isSpace(char ch)$/;"	f
+main	main.c	/^int main()$/;"	f
+main	practice_array/count_characters.c	/^int main(int argc, char *argv[])$/;"	f
+main	practice_array/count_frequency.c	/^int main(void)$/;"	f
+main	practice_array/pass_half_ele.c	/^int main()$/;"	f
+main	practice_array/shift.c	/^int main(void)$/;"	f
+main	practice_array/size_length.c	/^int main()$/;"	f
+main	practice_commandline/example.c	/^int main(int argc, char *argv[])$/;"	f
+main	practice_datatype/comma_operator_precedence.c	/^int main()$/;"	f
+main	practice_datatype/float_double.c	/^int main()$/;"	f
+main	practice_datatype/power_of_two.c	/^int main() {$/;"	f
+main	practice_datatype/recursion_example.c	/^int main()$/;"	f
+main	practice_datatype/reverse.c	/^int main() {$/;"	f
+main	practice_datatype/reverse_recursive.c	/^ int main()$/;"	f
+main	practice_datatype/two_complement.c	/^int main()$/;"	f
+main	practice_extern/main.c	/^int main() {$/;"	f
+main	practice_storageclass/storageclass.c	/^int main() $/;"	f
+main	strcpy_demo.c	/^int main()$/;"	f
+pass	practice_array/pass_half_ele.c	/^int pass(int *arr, int size)$/;"	f
+recursive	practice_datatype/reverse_recursive.c	/^int recursive(int num, int reverse)$/;"	f
+registerStorageClass	practice_storageclass/storageclass.c	/^void registerStorageClass() $/;"	f
+reverse	practice_datatype/reverse.c	/^int reverse(int num) {$/;"	f
+shift	practice_array/shift.c	/^void shift(char *str, int pos)$/;"	f
+staticStorageClass	practice_storageclass/storageclass.c	/^void staticStorageClass() $/;"	f
+subtraction	practice_extern/sub.c	/^void subtraction(int a, int b) $/;"	f
+x	practice_storageclass/storageclass.c	/^int x; $/;"	v
